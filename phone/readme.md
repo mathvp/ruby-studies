@@ -35,3 +35,16 @@ MY-MISERABLE-JOB
 Saída:
 69-647372253-562
 ```
+## Como testar 
+Clone o repositório:
+```
+git clone git@github.com:mathvp/ruby-studies.git
+```
+Acesse a pasta do exercício desejado e instale as dependências com:
+```
+bundle install
+```
+Execute os testes com o comando:
+```
+rspec
+```
