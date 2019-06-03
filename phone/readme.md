@@ -40,7 +40,13 @@ Clone o repositório:
 ```
 git clone git@github.com:mathvp/ruby-studies.git
 ```
-Acesse a pasta do exercício desejado e instale as dependências com:
+
+Acesse a pasta do exercício com:
+```
+cd ruby-studies/phone
+```
+ 
+Instale as dependências com:
 ```
 bundle install
 ```
